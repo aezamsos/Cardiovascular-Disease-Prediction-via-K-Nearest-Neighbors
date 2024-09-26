@@ -1,6 +1,13 @@
 # Cardiovascular-Disease-Prediction-via-K-Nearest-Neighbors
  This project focuses on predicting cardiovascular disease using the K-Nearest Neighbors (KNN) classification algorithm, implemented in a Jupyter Notebook. It aims to provide a valuable tool for the early detection and diagnosis of heart disease based on various input features.
 
+![Status](https://img.shields.io/badge/status-completed-brightgreen) 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-Python-orange) 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Tool](https://img.shields.io/badge/tool-Jupyter-Notebook-Black)
+
 ## Features
 
 - **Heart Disease Prediction:** Utilizes a KNN classifier to predict the presence or absence of cardiovascular disease based on multiple input features.
@@ -26,7 +33,7 @@ To set up the Cardiovascular Disease Prediction project on your local machine, f
 1. **Clone the Repository:**
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/your-repository.git
+     git clone https://github.com/aezamsos/Cardiovascular-Disease-Prediction-via-K-Nearest-Neighbors.git
      ```
    - Navigate to the project directory:
      ```bash
@@ -69,3 +76,8 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Connect with Me
+
+- [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
+- Email: aezamsos@gmail.com
+- WhatsApp: +918328476955
