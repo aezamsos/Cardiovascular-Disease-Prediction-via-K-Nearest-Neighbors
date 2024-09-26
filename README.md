@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/language-Python-orange) 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Tool](https://img.shields.io/badge/tool-JupyterNotebook-black)
+![Tool](https://img.shields.io/badge/tool-JupyterNotebook-white)
 
 ## Features
 
